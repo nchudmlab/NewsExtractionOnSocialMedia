@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/twitter4j-async-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/twitter4j-examples-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/twitter4j-media-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/workspace/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bird/Downloads/stanford-ner-2015-12-09/stanford-ner.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
